@@ -9,5 +9,7 @@ man10のプラグインを利用するために必要なlibrary
 をbuild.gradleに追記する。
 3. `depend:  - Man10CommonLibs`をplugin.ymlに追記する。
 4. サーバーのpluginsにMan10CommonLibsを導入しておく。
-##Maven
+## Maven
 mavenのサポートはしていません。
+#現在追加されているファイルなど
+- Man10用MySQLManager
