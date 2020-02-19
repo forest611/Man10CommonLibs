@@ -1,7 +1,6 @@
-name: SamplePlugin
+name: Man10CommonLibs
 version: 1.0
-main: red.man10.sample.Sample
+main: red.man10.Man10CommonLibs
 api-version: '1.15'
-prefix: man10test
-authors: [takatronix]
-description: Kotlin Sample Plugin
+authors: [takatronix,forest611]
+description: Libraries for man10 plugin
