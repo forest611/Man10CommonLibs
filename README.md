@@ -11,5 +11,5 @@ man10のプラグインを利用するために必要なlibrary
 4. サーバーのpluginsにMan10CommonLibsを導入しておく。
 ## Maven
 mavenのサポートはしていません。
-#現在追加されているファイルなど
+# 現在追加されているファイルなど
 - Man10用MySQLManager
